@@ -27,34 +27,34 @@
 | --------------------------------- |
 | That's how we handled the problem |
 
-| 这就是我为什么不再去那里的原因                  |
-| ----------------------------------------------- |
-| That's the reason why I don't go there any more |
+| 这就是我为什么不再去那里的原因 |
+| ------------------------------ |
+|                                |
 
-| 阅读对于人的心智就像水对于鱼一样的重要       |
+| 阅读对于人的心智就像水对于鱼一样的重要 |
+| -------------------------------------- |
+|                                        |
+
+| 他的曾祖父是最早定居在此山间旅游胜地的人之一 |
 | -------------------------------------------- |
-| Reading is to the mind what water is to fish |
+|                                              |
 
-| 他的曾祖父是最早定居在此山间旅游胜地的人之一                 |
-| ------------------------------------------------------------ |
-| His great grandfather was among the first to settle in what is the famous mountain resort |
+| 经过没完没了的等待以后，终于轮到他进老板办公室 |
+| ---------------------------------------------- |
+|                                                |
 
-| 经过没完没了的等待以后，终于轮到他进老板办公室               |
-| ------------------------------------------------------------ |
-| After what seemed an endless wait,it was his turn to step into the employer's office |
-
-| 告诉所有等待的人，我十分钟后回来                           |
-| ---------------------------------------------------------- |
-| Tell whoever is waiting that I will be back in ten minutes |
+| 告诉所有等待的人，我十分钟后回来 |
+| -------------------------------- |
+|                                  |
 
 ### 主语从句
 | 所有被砍伐的木材里有多达四分之一没有被利用，结果证明这是错误的 |
 | ------------------------------------------------------------ |
-| That as much as one-fourth of all timber harvested is not used proved to be false. |
+|                                                              |
 
 | 政府究竟是应减少对技术经费的投入来增加对纯理论科学的经费投入，还是相反，这往往取决于把哪一方看作是驱动力量 |
 | ------------------------------------------------------------ |
-| Whether the Government should increase the financing of pure science at the expense of technology or vice versa often depends on the issus of which is seen as the driving force. |
+|                                                              |
 
 | 有组织野营活动的显著增长是否意味着较独立野营活动的消亡还很难说 |
 | ------------------------------------------------------------ |
@@ -965,6 +965,5 @@
 |      |
 | ---- |
 |      |
-
 
 

@@ -50,11 +50,11 @@
 ### 主语从句
 | 所有被砍伐的木材里有多达四分之一没有被利用，结果证明这是错误的 |
 | ------------------------------------------------------------ |
-| That as much as one-fourth of all timber harvested is not used proved to be false. |
+|                                                              |
 
 | 政府究竟是应减少对技术经费的投入来增加对纯理论科学的经费投入，还是相反，这往往取决于把哪一方看作是驱动力量 |
 | ------------------------------------------------------------ |
-| Whether the Government should increase the financing of pure science at the expense of technology or vice versa often depends on the issus of which is seen as the driving force. |
+|                                                              |
 
 | 有组织野营活动的显著增长是否意味着较独立野营活动的消亡还很难说 |
 | ------------------------------------------------------------ |
@@ -81,7 +81,6 @@
 |                                                              |
 
 ### 宾语从句
-
 |      |
 | ---- |
 |      |
@@ -966,5 +965,8 @@
 | ---- |
 |      |
 
+|      |
+| ---- |
+|      |
 
 
